@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://grahovo-land.com/sitemap.xml
